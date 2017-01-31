@@ -1,2 +1,3 @@
-# metadata
-Repository for Cambridge metadata
+# omniFocus Hiragino Theme  
+
+## Set omniFocus font to Hiragino KakuGothic.
